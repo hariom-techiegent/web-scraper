@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node scraper.js --keyword comedy --pages 2"
+    "start": "node index.js --keyword action --pages 3"
   },
   "dependencies": {
     "csv-writer": "^1.6.0",
