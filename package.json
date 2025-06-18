@@ -1,0 +1,18 @@
+{
+  "name": "imdb-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node scraper.js --keyword comedy --pages 2"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^24.10.1",
+    "winston": "^3.8.2",
+    "yargs": "^17.7.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

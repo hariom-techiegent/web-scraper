@@ -1,0 +1,97 @@
+[2025-06-18T12:19:40.817Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:20:16.923Z] error: ❌ Error on page 1: net::ERR_NAME_NOT_RESOLVED at https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:20:17.127Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T12:20:25.687Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:20:59.896Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:21:00.074Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:24:28.830Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:24:33.004Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:24:33.210Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:26:10.315Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:26:19.713Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:26:19.882Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:29:06.563Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:29:10.554Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:29:10.725Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:29:58.514Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:30:01.743Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:30:01.967Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:30:24.960Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:30:48.771Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:30:48.934Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:31:33.064Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:32:09.204Z] error: ❌ Error on page 1: net::ERR_NAME_NOT_RESOLVED at https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:32:09.377Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T12:32:15.463Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:32:35.368Z] error: ❌ Error on page 1: Failed to execute 'querySelector' on 'Element': '.lister-item-yea)' is not a valid selector.
+pptr:evaluate;%2Fhome%2Fatm%2FDesktop%2Fimdb-scraper%2Findex.js%3A56%3A33:4:27
+[2025-06-18T12:32:35.531Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T12:32:52.254Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:32:55.621Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:32:55.782Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:33:07.449Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:33:10.798Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:33:11.071Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:33:34.702Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:33:57.448Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:34:06.385Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:34:06.566Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:37:27.598Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:37:32.046Z] error: ❌ Error on page 1: rating is not defined
+pptr:evaluate;%2Fhome%2Fatm%2FDesktop%2Fimdb-scraper%2Findex.js%3A56%3A33:25:13
+[2025-06-18T12:37:32.221Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T12:38:13.017Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:38:16.444Z] error: ❌ Error on page 1: rating is not defined
+pptr:evaluate;%2Fhome%2Fatm%2FDesktop%2Fimdb-scraper%2Findex.js%3A56%3A33:25:13
+[2025-06-18T12:38:16.673Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T12:38:36.132Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:38:56.549Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:39:10.175Z] error: ❌ Error on page 1: summary is not defined
+pptr:evaluate;%2Fhome%2Fatm%2FDesktop%2Fimdb-scraper%2Findex.js%3A56%3A33:26:13
+[2025-06-18T12:39:10.321Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T12:39:29.649Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:39:37.966Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:39:38.128Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:54:22.511Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:54:42.168Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:54:46.301Z] error: ❌ Error on page 1: rating is not defined
+pptr:evaluate;%2Fhome%2Fatm%2FDesktop%2Fimdb-scraper%2Findex.js%3A56%3A33:15:13
+[2025-06-18T12:54:46.500Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T12:54:57.926Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:55:01.449Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:55:01.609Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:56:59.532Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:57:03.240Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:57:03.416Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T12:57:59.138Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T12:58:02.510Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T12:58:02.682Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T13:05:02.097Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:05:37.418Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:05:59.370Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:06:29.902Z] error: ❌ Error on page 1: Waiting for selector `.ipc-metadata-list-summary-item` failed: Waiting failed: 30000ms exceeded
+[2025-06-18T13:06:29.979Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T13:07:05.943Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:07:10.692Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T13:07:10.898Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T13:07:33.267Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:07:46.863Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T13:07:47.171Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T13:08:56.712Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:09:27.292Z] error: ❌ Error on page 1: Waiting for selector `.ipc-metadata-list-summary-item` failed: Waiting failed: 30000ms exceeded
+[2025-06-18T13:09:27.485Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T13:10:55.671Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:11:26.108Z] error: ❌ Error on page 1: Waiting for selector `.ipc-metadata-list-summary-item` failed: Waiting failed: 30000ms exceeded
+[2025-06-18T13:11:26.320Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T13:11:37.447Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:11:40.965Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T13:11:41.206Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T13:12:07.799Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:12:30.882Z] error: ❌ Error on page 1: net::ERR_NAME_NOT_RESOLVED at https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:12:31.169Z] info: 🎉 Finished scraping. Total movies: 0
+[2025-06-18T13:12:49.439Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:12:53.071Z] info: ✔ Scraped 50 movies from page 1
+[2025-06-18T13:12:53.304Z] info: 🎉 Finished scraping. Total movies: 50
+[2025-06-18T13:13:01.497Z] info: Navigating to https://www.imdb.com/search/title/?genres=action&start=1&explore=title_type,genres
+[2025-06-18T13:13:31.895Z] error: ❌ Error on page 1: Waiting for selector `.ipc-metadata-list-summary-item` failed: Waiting failed: 30000ms exceeded
+[2025-06-18T13:13:32.113Z] info: 🎉 Finished scraping. Total movies: 0
